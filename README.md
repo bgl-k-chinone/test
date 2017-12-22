@@ -25,10 +25,10 @@ Host github.com
 
 ## 動作確認
 - `ssh -T github.com`で、接続可能か確認  
-![](img/c.PNG)
+![](img/c.png)
 
 - `git clone SSHのリポジトリ名`で、リポジトリの取得が可能か確認  
-![](img/d.PNG)
+![](img/d.png)
 
 - `git push`で、リポジトリのアップロードが可能か確認  
-![](img/e.PNG)
+![](img/e.png)
